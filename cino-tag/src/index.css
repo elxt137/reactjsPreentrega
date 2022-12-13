@@ -1,0 +1,27 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+
+body {
+  color :#C69749;
+  background-color: white;
+  
+}
+
+.publicidadApp {
+  color: white;
+  background-color: #282A3A;
+
+}
+
+.footer {
+  color: bisque;
+  background-color: brown;
+
+}
+.centrar{
+  margin:auto;
+  display:block;
+}
