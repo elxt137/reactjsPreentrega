@@ -17,13 +17,13 @@ const NavBar = () => {
                             <div className="collapse navbar-collapse" id="navbarNavDropdown">
                               <ul className="navbar-nav">
                                 <li className="nav-item">
-                                <NavLink className="nav-link active" aria-current="page" to={"/category/acrilico"}>Cuadros </NavLink>
+                                <NavLink className="nav-link active" aria-current="page" to={"/category/Ofertas"}>Ofertas </NavLink>
                                 </li>
                                 <li className="nav-item">
                                   <NavLink className="nav-link" to={"/category/acrilico"}>Lienzo</NavLink>
                                 </li>
                                 <li className="nav-item">
-                                  <NavLink className="nav-link" to={"/category/acrilico"}>Especiales</NavLink>
+                                  <NavLink className="nav-link" to={"/category/Enmarcados"}>Enmarcados</NavLink>
                                 </li>
                                
                               </ul>
