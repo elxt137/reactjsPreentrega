@@ -11,7 +11,7 @@ const Cart = () => {
                 <div className="row">
                     <div className="col-md-12 text-center">
                         <div className="alert alert-danger" role="alert">No se encontraron Productos en el Carrito!</div>
-                        <Link to={"/"} className="btn fondoNaranja">Volver a la Página Principal</Link>
+                        <Link to={"/"} className="btn fondoNaranja">Volverr a la Página Principal</Link>
                     </div>
                 </div>
             </div>
